@@ -1,0 +1,44 @@
+
+
+#cajaUno{
+    background-color: #F3F8FA;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    text-align: center;
+    
+}
+
+#cajaDos {
+    background-color: #29F06E;
+    
+}
+h2{
+    font-size: 350%;
+    color:yellow;
+}
+#p2{
+    color:yellow;
+    font-size: 20px;
+}
+
+#cajaTres{
+    background-color: #F3F8FA;
+}
+.form-check-label{
+    color:#FAF716;
+
+    
+}
+#cajaCuatro{
+    background-color: #19414E;
+}
+h5{
+    color:#099085;
+    text-decoration: underline;
+}
+#codigo{
+    color:#FAF716 ;
+}
